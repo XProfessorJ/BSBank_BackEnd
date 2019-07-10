@@ -1,0 +1,19 @@
+{
+    "customerType":"INDIVIDUAL",
+    "customerParticulars":{
+        "names":[
+            {
+                "nameType":"LOCAL_NAME",
+                "firstName":"Javier",
+                "lastName":"de Cuellar",
+                "fullName":"Javier Perez de Cuellar",
+                "middleName":"Perez"
+            }
+        ],
+        "gender":"Female",
+        "prefix":"Mr.",
+        "suffix":"III"
+    },
+    "customerSegment":"BLUE",
+    "partnerCustomerSegment":"AD1"
+}

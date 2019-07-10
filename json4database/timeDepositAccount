@@ -1,0 +1,13 @@
+"timeDepositAccountSummary":{
+                        "productName":"UNFIXED TD",
+                        "productCode":"0204_UFTD",
+                        "accountNickname":"TIME",
+                        "displayAccountNumber":"XXXXXX0308",
+                        "accountId":"755a774e674f2f6d4b3074355a5439506d35464c67455251396e56794851304443306376467a45545242733d",
+                        "currencyCode":"HKD",
+                        "accountClassification":"ASSET",
+                        "accountStatus":"ACTIVE",
+                        "currentBalance":9.04,
+                        "maturityDate":"2016-08-31",
+                        "originalPrincipalAmount":9.04
+                    }

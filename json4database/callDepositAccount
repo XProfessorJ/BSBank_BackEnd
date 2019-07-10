@@ -1,0 +1,11 @@
+"callDepositAccountSummary":{
+                        "productName":"CASH PLUS",
+                        "productCode":"0023_CHPS",
+                        "accountNickname":"CASH",
+                        "displayAccountNumber":"XXXXXX5840",
+                        "accountId":"41375159436b366b32335a6b566d53315753684d2b69464f43427347654b496e2f6a4f6d4971546e622f773d",
+                        "currencyCode":"HKD",
+                        "accountClassification":"ASSET",
+                        "accountStatus":"ACTIVE",
+                        "currentBalance":11562.5
+                    }

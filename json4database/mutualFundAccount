@@ -1,0 +1,11 @@
+"mutualFundAccountSummary":{
+                        "productName":"NRI MUTUAL FUNDS RDR ACCOUNT",
+                        "productCode":"0248_MFRDR",
+                        "accountNickname":"MUTUL",
+                        "displayAccountNumber":"XXXXXX2302",
+                        "accountId":"416b79676b52556f53465a61722b4a68647a6f677273346443794a503441444669316e3163452b767976343d",
+                        "currencyCode":"HKD",
+                        "accountClassification":"ASSET",
+                        "accountStatus":"ACTIVE",
+                        "currentBalance":665644.98
+                    }

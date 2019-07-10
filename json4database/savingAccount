@@ -1,0 +1,12 @@
+"savingsAccountSummary":{
+                        "productName":"Personal Savings Account",
+                        "productCode":"0004_SPSAV",
+                        "accountNickname":"PERSAVING",
+                        "displayAccountNumber":"XXXXXX1847",
+                        "accountId":"355a515030616a53576b6a65797359506a634175764a734a3238314e4668627349486a676f7449463949453d",
+                        "currencyCode":"HKD",
+                        "accountClassification":"ASSET",
+                        "accountStatus":"ACTIVE",
+                        "currentBalance":13642.83,
+                        "availableBalance":13642.83
+                    }

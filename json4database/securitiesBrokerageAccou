@@ -1,0 +1,11 @@
+"securitiesBrokerageAccountSummary":{
+                        "productName":"SECURITIES BROKERAGE CASH ACCO",
+                        "productCode":"0131_SBC",
+                        "accountNickname":"SECU",
+                        "displayAccountNumber":"XXXXXX7001",
+                        "accountId":"6d7a6272592b334b736b46417365786d31543653454a3044496a3447584941333679792b4f3436325546513d",
+                        "currencyCode":"HKD",
+                        "accountClassification":"ASSET",
+                        "accountStatus":"ACTIVE",
+                        "currentBalance":93561.68
+                    }

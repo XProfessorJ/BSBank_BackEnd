@@ -1,0 +1,49 @@
+Customer:
+ "customerType":"INDIVIDUAL",
+    "customerParticulars":{
+        "names":[
+            {
+                "nameType":"LOCAL_NAME",
+                "firstName":"Javier",
+                "lastName":"de Cuellar",
+                "fullName":"Javier Perez de Cuellar",
+                "middleName":"Perez"
+            }
+        ],
+        "gender":"Female",
+        "prefix":"Mr.",
+        "suffix":"III"
+    },
+    "customerSegment":"BLUE",
+    "partnerCustomerSegment":"AD1"
+	
+	
+	
+	
+Account:
+	"productName":"Citibank Platinum Visa",
+	"productCode":"0071_VC301",
+	"accountNickname":"TRAVEL CARD",
+	"displayAccountNumber":"XXXXXXXXXXXX0364",
+	"accountId":"XXXXXXXXXXXXXXXXXX343d",
+	"currencyCode":"AUD",
+	"accountClassification":"LIABILITY",
+	"accountStatus":"ACTIVE",
+	"outstandingBalance":10000.25,
+	"availableCredit":15000.25,
+	"creditLimit":25000.25,
+	"minimumDueAmount":256.5,
+	"paymentDueDate":"2016-10-05",
+	"alternateCurrency":"USD",
+	"alternateCurrencyCurrentBalance":1534.25,
+	"cardHolderType":"PRIMARY"
+	
+	
+	
+	
+Card:
+		"cardId":"4565666277647878436c505774504c504a594261686a4c 676f2f2b2b67334e32747967676f4c7341794e553d",
+        "requestedCreditLimitAmount":9000,
+        "creditLimitIncreaseStartDate":"2018-10-01",
+        "creditLimitIncreaseEndDate":"2018-12-01",
+        "reasonCode":"TRAVEL_RELATED"	

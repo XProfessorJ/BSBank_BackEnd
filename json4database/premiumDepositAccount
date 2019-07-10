@@ -1,0 +1,13 @@
+"premiumDepositAccountSummary":{
+                        "productName":"PREMIUM ACCOUNT",
+                        "productCode":"0228_PMPL",
+                        "accountNickname":"PREM",
+                        "displayAccountNumber":"XXXXXX5802",
+                        "accountId":"336748697936664d4f72445456356763447756546362562b527953457866685839685969766c32374d79733d",
+                        "currencyCode":"HKD",
+                        "accountClassification":"ASSET",
+                        "accountStatus":"ACTIVE",
+                        "currentBalance":26589.01,
+                        "maturityDate":"2016-01-13",
+                        "originalPrincipalAmount":26589.01
+                    }
